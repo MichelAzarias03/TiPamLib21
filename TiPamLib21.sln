@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiPamLib21", "TiPamLib21\TiPamLib21.csproj", "{C84281FE-5843-4A68-8581-F44D6ED5CBBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C84281FE-5843-4A68-8581-F44D6ED5CBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C84281FE-5843-4A68-8581-F44D6ED5CBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C84281FE-5843-4A68-8581-F44D6ED5CBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C84281FE-5843-4A68-8581-F44D6ED5CBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7B4581B-7DE1-4F12-9B10-BA1A8EBF8218}
+	EndGlobalSection
+EndGlobal
